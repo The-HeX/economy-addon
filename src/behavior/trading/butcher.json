@@ -1,0 +1,78 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:beef",
+              "quantity": 1
+            }
+          ]
+        },
+        { 
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:porkchop",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:mutton",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:chicken",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:rabbit",
+              "quantity": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

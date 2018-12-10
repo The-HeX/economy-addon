@@ -1,0 +1,178 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:potato",
+              "quantity": 1
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:carrot",
+              "quantity": 1
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:beetroot",
+              "quantity": 1
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:iron",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:wheat",
+              "quantity": 1
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:bread",
+              "quantity": 1
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:beef",
+              "quantity": 1
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:cooked_beef",
+              "quantity": 1
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:porkchop",
+              "quantity": 1
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:cooked_porkchop",
+              "quantity": 1
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:muttonraw",
+              "quantity": 1
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:muttoncooked",
+              "quantity": 1
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:leather",
+              "quantity": 1
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 1
+            }
+          ]
+        }
+
+
+      ]
+    }
+  ]
+}

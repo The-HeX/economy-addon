@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "",
+        "name": "Economy",
+		"uuid": "5393d9e0-3c83-4e4f-ac4c-e1ba32a8a38a",
+        "version": [1, 8, 0]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "data",
+			"uuid": "bb48d463-d609-4686-a8e5-ac4117df9783",
+            "version": [1, 8, 0]
+        }
+    ],
+    "dependencies": [
+        {
+			"uuid": "64be6327-213e-4e3a-b5b8-bbf936d31871",
+            "version": [0, 0, 1]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 1
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:potato",
+              "quantity": 1
+            }
+          ]
+        },
+        { 
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 1
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:carrot",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 1
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:beetroot",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 1
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:wheat",
+              "quantity": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

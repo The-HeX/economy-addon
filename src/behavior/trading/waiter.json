@@ -1,0 +1,224 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:baked_potato",
+              "quantity": 1
+            }
+          ]
+        },
+        { 
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:cooked_beef",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:cooked_porkchop",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:cooked_chicken",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:muttoncooked",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:bread",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:cake",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:pumpkin_pie",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:apple",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:golden_apple",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:cookie",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:rabbit_stew",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:beetroot_soup",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:mushroom_stew",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:cooked_fish",
+              "quantity": 1
+            }
+          ]
+        }
+
+
+
+
+
+
+      ]
+    }
+  ]
+}

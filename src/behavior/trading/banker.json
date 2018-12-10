@@ -1,0 +1,78 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:gold_nugget",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:gold_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:prismarine_shard",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:prismarine_shard",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:emerald",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:diamond",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:diamond",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:ghast_tear",
+              "quantity": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

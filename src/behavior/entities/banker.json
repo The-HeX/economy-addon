@@ -1,0 +1,87 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "economy:banker",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false,
+      "runtime_identifier": "minecraft:villager"   
+    },
+    "component_groups": {
+      "economy":{
+       
+        "minecraft:variant": {
+          "value": 0
+        },
+
+        "minecraft:trade_table": {
+          "display_name": "Banker",
+          "table": "trading/banker.json"
+        }
+      }
+    },
+    "components": {
+      "minecraft:breathable": {
+        "totalSupply": 15,
+        "suffocateTime": 0
+      },
+      "minecraft:nameable": {
+      },
+     
+
+      "minecraft:health": {
+        "value": 100,
+        "max": 100
+      },
+     
+      "minecraft:navigation.walk": {
+        "can_path_over_water": true,
+        "avoid_water": false
+      },
+      "minecraft:movement.basic": {
+      },
+     
+      "minecraft:behavior.float": {
+        "priority": 1
+      },
+      "minecraft:behavior.trade_with_player": {
+        "priority": 1
+      },
+      "minecraft:behavior.look_at_trading_player": {
+        "priority": 2
+      },
+   
+      "minecraft:behavior.look_at_player": {
+        "priority": 3,
+        "look_distance": 8.0
+      },
+      "minecraft:behavior.random_look_around": {
+        "priority": 3,
+        "look_distance": 8.0
+      },
+      
+     
+      "minecraft:type_family": {
+        "family": [ "npc", "economy" ,"villager"]
+      },
+      "minecraft:physics": {
+      }
+    },
+    "events":{
+      "minecraft:entity_spawned": {
+        "sequence": [
+          {
+            "filters": { "test": "has_component", "operator": "!=", "value": "minecraft:variant" },
+            "randomize": [
+              {
+                "weight": 100,
+                "add": { "component_groups": [ "economy" ] }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

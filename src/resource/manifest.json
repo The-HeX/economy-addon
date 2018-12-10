@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Economy",
+        "name": "Economy",
+		"uuid": "64be6327-213e-4e3a-b5b8-bbf936d31871",
+        "version": [1, 8, 0],
+        "min_engine_version": [1, 8, 0]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+			"uuid": "1d8fe649-c8bf-4f3a-9cf8-8b2316fd1b22",
+            "version": [1, 8, 0]
+        }
+    ]
+}

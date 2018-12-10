@@ -1,0 +1,22 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:iron_nugget",
+              "quantity": 10
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:minecart",
+              "quantity": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
